@@ -24,7 +24,7 @@ The rules of this card game are quite simple.
 
 - Clone or fork this repo
 - `cd card-game-war`
-- Run the tests with `lein test`
+- Run the tests with `./run_tests.sh`
 - In this kata, you will be prompted to fill in your own tests.
 - Make the tests pass!
 
