@@ -32,6 +32,8 @@ The rules of this card game are quite simple.
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
+* https://github.com/imarban/wonderland_python_katas_solutions/tree/master/card_game_war
+
 If you haven't solved your kata yet - Don't Peek!
 
 ## License
