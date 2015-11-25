@@ -74,7 +74,7 @@ Also don't be shy looking for other libraries or tools to help you.
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
-* https://github.com/imarban/wonderland_python_katas/tree/master/doublets
+* https://github.com/imarban/wonderland_python_katas_solutions/tree/master/doublets
 
 If you haven't solved your kata yet - Don't Peek!
 
