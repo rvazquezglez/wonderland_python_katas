@@ -24,13 +24,15 @@ The rules of this card game are quite simple.
 
 - Clone or fork this repo
 - `cd card-game-war`
-- Run the tests with `lein test`
+- Run the tests with `./run_tests.sh`
 - In this kata, you will be prompted to fill in your own tests.
 - Make the tests pass!
 
 ## Solutions
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
+
+* https://github.com/imarban/wonderland_python_katas_solutions/tree/master/card_game_war
 
 If you haven't solved your kata yet - Don't Peek!
 
